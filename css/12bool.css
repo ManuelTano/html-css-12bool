@@ -18,6 +18,10 @@
     margin-bottom: 25px;
 }
 
+.pad {
+    padding: 10px;
+}
+
 .row > [class^="col"] {
     flex-shrink: 0;
     flex-wrap:wrap;
